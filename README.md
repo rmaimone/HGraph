@@ -6,4 +6,4 @@ I devloped a simple Hgraph library for android and in this example I used it to 
 How use this module:
 
 add the module in your android application
-create a class where you laod the list of data to represent and the HScor
+create a class where you laod the list of data to represent and the HScore
